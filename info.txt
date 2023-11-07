@@ -1,0 +1,5 @@
+Student_id : 2313110294
+Student Name : Thongthai Shompoopeun
+Major : IT
+Level : 1
+Faculty :Information Technology
