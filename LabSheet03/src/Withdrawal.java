@@ -26,7 +26,7 @@ public class Withdrawal {
 			JOptionPane.showMessageDialog(null,"Error Cannot withdarw " + aftermod + " baht.","ERROR",JOptionPane.ERROR_MESSAGE);
 		}
 		else {
-			JOptionPane.showMessageDialog(null,"You withdraw"+frm.format(omoney)+" baht."+"\n1,000 = "+ omoney/1000 + "\n500 = "+ (omoney%1000)/500 + "\n100 = "+ (omoney%500)/100);
+			JOptionPane.showMessageDialog(null,"You withdraw "+frm.format(omoney)+" baht."+"\n1,000 = "+ omoney/1000 + "\n500 = "+ (omoney%1000)/500 + "\n100 = "+ (omoney%500)/100);
 		}
 	}
 
