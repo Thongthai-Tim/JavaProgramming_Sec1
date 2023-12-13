@@ -1,4 +1,4 @@
 Id:2313110294
 Name-Surname: Thongthai Shompoopeun
-Date: Nov-29-2023
-Topic:  Control Statement (Decision, Loop, and Jump Statement)
+Date: Dec-13-2023
+Topic:  Work with String and the String Method
